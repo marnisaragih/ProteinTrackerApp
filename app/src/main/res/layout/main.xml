@@ -116,4 +116,16 @@
             android:textSize="16sp"/>
 </LinearLayout>
 
-    </LinearLayout>
+    <Button
+        android:id="@+id/btnsetting"
+        android:layout_width="206dp"
+        android:layout_height="61dp"
+        android:text="Settings" />
+
+    <Button
+        android:id="@+id/btnlogin"
+        android:layout_width="193dp"
+        android:layout_height="64dp"
+        android:text="login" />
+
+</LinearLayout>
